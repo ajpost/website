@@ -13,3 +13,4 @@ Changes are part of automatic merge example
 ## update from Master
 
 This is going to be painful, but we will deal with it
+Since I plan to edit the same file, this could cause a conflict 
